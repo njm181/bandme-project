@@ -1,4 +1,4 @@
-package com.bandme.connections
+package com.mlm.bandme
 
 import org.junit.Test
 
